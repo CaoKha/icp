@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".clangd": "yaml",
+        "mutex": "cpp",
+        "eigen": "cpp"
+    }
+}
